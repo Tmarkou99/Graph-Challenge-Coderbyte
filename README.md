@@ -4,6 +4,7 @@ Have the function GraphChallenge(strArr) read strArr which will be an array of h
 So for the example above, your program should return 2 because of the paths a-b-c and d-b-c. The path a-b-c also means that there is a path c-b-a. No cycles will exist in the graph and every node will be connected to some other node in the graph.
 
 Examples
+
 Input: ["b-e","b-c","c-d","a-b","e-f"]
 Output: 4
 
